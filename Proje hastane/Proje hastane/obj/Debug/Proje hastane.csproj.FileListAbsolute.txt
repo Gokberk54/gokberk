@@ -1,0 +1,24 @@
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\obj\Debug\Proje hastane.csproj.AssemblyReference.cache
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\obj\Debug\Proje hastane.csproj.SuggestedBindingRedirects.cache
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\obj\Debug\Proje_hastane.FrmbilgiDuzenle.resources
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\obj\Debug\Proje_hastane.FrmBrans.resources
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\obj\Debug\Proje_hastane.FrmDoktorBilgiDüzenle.resources
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\obj\Debug\Proje_hastane.FrmDoktorDetay.resources
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\obj\Debug\Proje_hastane.FrmDoktorGiris.resources
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\obj\Debug\Proje_hastane.FrmDoktorPaneli.resources
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\obj\Debug\Proje_hastane.FrmDuyurular.resources
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\obj\Debug\Proje_hastane.FrmGirisler.resources
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\obj\Debug\Proje_hastane.FrmHastaDetay.resources
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\obj\Debug\Proje_hastane.FrmHastaGiris.resources
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\obj\Debug\Proje_hastane.FrmHastaKayıt.resources
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\obj\Debug\Proje_hastane.FrmRandevuListesi.resources
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\obj\Debug\Proje_hastane.FrmSekreterDetay.resources
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\obj\Debug\Proje_hastane.FrmSekreterGiris.resources
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\obj\Debug\Proje_hastane.Properties.Resources.resources
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\obj\Debug\Proje hastane.csproj.GenerateResource.cache
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\obj\Debug\Proje hastane.csproj.CoreCompileInputs.cache
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\bin\Debug\Proje hastane.exe.config
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\bin\Debug\Proje hastane.exe
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\bin\Debug\Proje hastane.pdb
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\obj\Debug\Proje hastane.exe
+C:\Users\20001\source\repos\Proje hastane\Proje hastane\obj\Debug\Proje hastane.pdb

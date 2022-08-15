@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dce2bd5f-dce5-4629-bc2c-3ed2ee6a47fd": {
+      "ProjectGuid": "dce2bd5f-dce5-4629-bc2c-3ed2ee6a47fd",
+      "DisplayName": "Proje hastane",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
